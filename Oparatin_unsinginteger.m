@@ -1,0 +1,10 @@
+a=20.55
+b=30.97
+c=a+b
+fprintf("%4u",c)
+d=b-a
+fprintf("%4u",d)
+e=a*b
+fprintf("%4u",e)
+f=b/a
+fprintf("%4u",f)
