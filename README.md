@@ -3,6 +3,8 @@
 
 Files are used to keep digital data, whereas directories are used to keep files. Computer files can be considered as the digital counterpart of paper documents. While programming, you keep your source code in text files with different extensions.
 
+![205455851-638ab4f1-b048-4508-8982-c82fd574155b](https://user-images.githubusercontent.com/109382325/215775099-5e0bc064-1ca1-4097-9023-d1d3f9fb9f3b.jpg)
+
 
 ## Author
 
